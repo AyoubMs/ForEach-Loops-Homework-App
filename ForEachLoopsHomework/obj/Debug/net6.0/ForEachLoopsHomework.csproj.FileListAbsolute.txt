@@ -1,0 +1,15 @@
+C:\Users\ayoub\source\repos\ForEachLoopsHomeworkApp\ForEachLoopsHomework\bin\Debug\net6.0\ForEachLoopsHomework.exe
+C:\Users\ayoub\source\repos\ForEachLoopsHomeworkApp\ForEachLoopsHomework\bin\Debug\net6.0\ForEachLoopsHomework.deps.json
+C:\Users\ayoub\source\repos\ForEachLoopsHomeworkApp\ForEachLoopsHomework\bin\Debug\net6.0\ForEachLoopsHomework.runtimeconfig.json
+C:\Users\ayoub\source\repos\ForEachLoopsHomeworkApp\ForEachLoopsHomework\bin\Debug\net6.0\ForEachLoopsHomework.dll
+C:\Users\ayoub\source\repos\ForEachLoopsHomeworkApp\ForEachLoopsHomework\bin\Debug\net6.0\ForEachLoopsHomework.pdb
+C:\Users\ayoub\source\repos\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ForEachLoopsHomework.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ForEachLoopsHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayoub\source\repos\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ForEachLoopsHomework.AssemblyInfoInputs.cache
+C:\Users\ayoub\source\repos\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ForEachLoopsHomework.AssemblyInfo.cs
+C:\Users\ayoub\source\repos\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ForEachLoopsHomework.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ForEachLoopsHomework.dll
+C:\Users\ayoub\source\repos\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\refint\ForEachLoopsHomework.dll
+C:\Users\ayoub\source\repos\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ForEachLoopsHomework.pdb
+C:\Users\ayoub\source\repos\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ForEachLoopsHomework.genruntimeconfig.cache
+C:\Users\ayoub\source\repos\ForEachLoopsHomeworkApp\ForEachLoopsHomework\obj\Debug\net6.0\ref\ForEachLoopsHomework.dll
